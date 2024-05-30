@@ -9,3 +9,4 @@ n1, n2 = function()
 print(n1, n2)
 password = j42ioj45!##$)%@@#)@$klefkd
 Token = dlfkj@234239423024#@$kdf#
+pass = AliveknfeIkdn)kdf_kdfl1293
